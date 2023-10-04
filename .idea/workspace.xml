@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31df789d-b17c-4144-8d6a-cb2a44f75ab0" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apps\apache-maven-3.6.1\mvn_resp" />
+        <option name="userSettingsFile" value="D:\apps\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VcAWam9DLErDelCyCxNCAe0koA" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mycode/IdeaProjects/brand-demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2704692&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mycode\IdeaProjects\vue-demo\src\main\webapp" />
+      <recent name="D:\mycode\IdeaProjects\vue-demo\src\main\webapp\js" />
+      <recent name="D:\mycode\IdeaProjects\brand-demo\src\main\java\com\ithm\util" />
+      <recent name="D:\mycode\IdeaProjects\brand-demo\src\main\webapp" />
+      <recent name="D:\mycode\IdeaProjects\brand-demo\src\main\resources\com\ithm\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mycode\IdeaProjects\vue-demo\src\main" />
+      <recent name="D:\mycode\IdeaProjects\brand-demo\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ithm.web" />
+      <recent name="com.ithm.web.session" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript 调试.05-vue-for.html">
+    <configuration name="CheckCodeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ithm.util.CheckCodeUtil" />
+      <module name="brand-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ithm.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01-vue-demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/brand-demo/vue-demo/src/main/webapp/01-vue-demo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-vue-on.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/brand-demo/vue-demo/src/main/webapp/03-vue-on.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="04-vue-if.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/brand-demo/vue-demo/src/main/webapp/04-vue-if.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="05-vue-for.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/brand-demo/vue-demo/src/main/webapp/05-vue-for.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 调试.05-vue-for.html" />
+        <item itemvalue="JavaScript 调试.04-vue-if.html" />
+        <item itemvalue="JavaScript 调试.03-vue-on.html" />
+        <item itemvalue="JavaScript 调试.01-vue-demo.html" />
+        <item itemvalue="应用程序.CheckCodeUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="31df789d-b17c-4144-8d6a-cb2a44f75ab0" name="变更" comment="" />
+      <created>1695125027254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695125027254</updated>
+      <workItem from="1695125028562" duration="4904000" />
+      <workItem from="1695186855670" duration="47000" />
+      <workItem from="1695187300733" duration="5461000" />
+      <workItem from="1695205060750" duration="6389000" />
+      <workItem from="1695286288656" duration="436000" />
+      <workItem from="1695288188447" duration="2634000" />
+      <workItem from="1695301828715" duration="2739000" />
+      <workItem from="1695349107873" duration="826000" />
+      <workItem from="1695386113582" duration="155000" />
+      <workItem from="1695390227891" duration="3367000" />
+      <workItem from="1695468771721" duration="1739000" />
+      <workItem from="1695474417290" duration="1752000" />
+      <workItem from="1695542310785" duration="6983000" />
+      <workItem from="1695559996097" duration="1823000" />
+      <workItem from="1695609553536" duration="3212000" />
+      <workItem from="1695798599551" duration="570000" />
+      <workItem from="1695872942785" duration="13000" />
+      <workItem from="1695873098289" duration="117000" />
+      <workItem from="1695902480334" duration="4031000" />
+      <workItem from="1695977281933" duration="48000" />
+      <workItem from="1696328593590" duration="46000" />
+      <workItem from="1696332489382" duration="2930000" />
+      <workItem from="1696405254144" duration="2863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
